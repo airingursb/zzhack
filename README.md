@@ -1,9 +1,10 @@
-![zzhack_banner](https://raw.githubusercontent.com/zzhack-stack/zzhack/main/doc/zzhack_banner.png)
-<div align="center"><h1>zzhack</h1></div>
+# ZZHACK V6
+Still in progress
 
-zzhack is a simple but beauty WASM App template, which based on by Rust & Yew, if you want to create your own WASM site using zzhack template, just get start by [zzhack-cli](https://github.com/zzhack-stack/zzhack-cli)
+## Tasks
+- [ ] Support SSR
+- [ ] UI/UX design
+- [ ] Architecture design
+- [ ] Plugin design
+- [ ] Theme design
 
-![sketch](https://raw.githubusercontent.com/zzhack-stack/zzhack/main/doc/zzhack_sketch.png)
-
-## License
-GNU GPLv3.
